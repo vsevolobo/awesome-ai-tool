@@ -121,7 +121,8 @@
 4. **Nekton AI**：用AI自动化工作流程，只需用简单语言描述步骤。[点击访问](https://nekton.ai)  
 5. **aiPDF**：智能文档助手，为你总结长PDF的内容。[点击访问](https://aipdf.ai)  
 6. **Pieces**：开发者专属的AI效率工具，支持捕捉、丰富并重复利用开发资源。[点击访问](https://pieces.app/)  
-7. **Huntr AI Resume Builder**：利用AI生成精准、简洁的简历，提升求职效率。[点击访问](https://huntr.co/product/ai-resume-builder/?ref=mahseema-awesome-ai-tools)  
+7. **Huntr AI Resume Builder**：利用AI生成精准、简洁的简历，提升求职效率。[点击访问](https://huntr.co/product/ai-resume-builder/?ref=mahseema-awesome-ai-tools)
+8. **MindMap AI**：可视化AI工具，用于整理思路、结构化研究内容，并将信息转化为清晰的思维导图。[点击访问](https://mindmapai.app/zh-CN/research-to-mindmap)
 
 ### 会议助手
 
