@@ -153,6 +153,7 @@
 - **[co:here](https://cohere.ai/)** - 提供高级大型语言模型和自然语言处理工具。
 - **[Haystack](https://haystack.deepset.ai/)** - 构建NLP应用（如代理、语义搜索、问答）的框架。
 - **[Keploy](https://keploy.io/)** - 开源工具，将用户流量转换为测试案例和数据存根。
+- **[agent-qa](https://vostride.com)** - 自然语言网页与移动端测试，结合 memidex 持久记忆、经验证的自我改进和 CLI/MCP 接入。
 - **[LangChain](https://langchain.com/)** - 开发语言模型驱动应用的框架。
 - **[gpt4all](https://github.com/nomic-ai/gpt4all)** - 一个训练了代码、故事和对话数据的大型聊天机器人。
 - **[LMQL](https://lmql.ai/)** - 针对大型语言模型的查询语言。
